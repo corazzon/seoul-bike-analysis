@@ -16,7 +16,7 @@ https://opengov.seoul.go.kr/anspruch/10045476
 
 ### [서울시 자전거 따릉이 데이터로 파이썬 기초부터 크롤링까지 :: 파이콘 한국 2019](https://www.pycon.kr/program/tutorial-detail?id=154)
 > 파이썬을 처음 배우는 분들을 위한 튜토리얼 입니다. 
-> 서울시 자전거 자전거 대여소 위치를 크롤링해서 분석해 봅니다.
+> 서울시 자전거 따릉이 대여소 위치를 크롤링해서 분석해 봅니다.
 * 8월 15일 (목) 10:00~8월 15일 (목) 13:00
 * 티켓구매 : https://www.pycon.kr/program/tutorial-detail?id=154
 
