@@ -27,7 +27,7 @@ https://opengov.seoul.go.kr/anspruch/10045476
 * 파이썬으로 자전거 대여소 크롤링 하기
   * request와 beautifulsoup 을 활용해서 크롤링을 합니다. 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/seoul-bike-analysis/blob/master/crawling.ipynb)
-  * 크롤링 한 결과에 대해 Pandas로 전처리를 하고 시각화 해봅니다.
+  * 크롤링 한 결과에 대해 Pandas로 전처리를 하고 시각화 해봅니다. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/seoul-bike-analysis/blob/master/seoul-bike-station-location.ipynb)
 
 ### [서울시 자전거 따릉이 데이터로 파이썬 시계열 분석부터 기계학습까지 :: 파이콘 한국 2019](https://www.pycon.kr/program/tutorial-detail?id=155)
 
@@ -42,7 +42,7 @@ https://opengov.seoul.go.kr/anspruch/10045476
 * 파이썬 데이터 전처리 
 * 시계열 분석 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/seoul-bike-analysis/blob/master/time-series-analysis.ipynb)
 * 기계학습 이론 소개 및 실습
-* 기계학습으로 특정 대여소의 자전거 대여량 예측하기
+* 기계학습으로 특정 대여소의 자전거 대여량 예측하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/seoul-bike-analysis/blob/master/ml-regression.ipynb)
 
 ### 오전, 오후 실습 내용 일부 미리보기
 
