@@ -39,7 +39,7 @@ https://opengov.seoul.go.kr/anspruch/10045476
 
 #### 실습 내용
 * Pandas 로 여러 데이터 파일 합치고 나누기
-* 파이썬 데이터 전처리 
+* 파이썬 데이터 전처리와 분석 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/seoul-bike-analysis/blob/master/seoul-bike-eda.ipynb) 
 * 시계열 분석 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/seoul-bike-analysis/blob/master/time-series-forecast.ipynb)
 * 기계학습 이론 소개 및 실습
 * 기계학습으로 특정 대여소의 자전거 대여량 예측하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/seoul-bike-analysis/blob/master/ml-regression.ipynb)
